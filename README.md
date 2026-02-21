@@ -4,6 +4,7 @@
 
 <p> 
   <img src="https://img.shields.io/badge/Release-May%202024-green" alt="Badge da data de lançamento: Maio de 2024">  
+  <img src="https://img.shields.io/badge/Version-0.2.0-blue">
 </p> 
 
 ## Descrição 
